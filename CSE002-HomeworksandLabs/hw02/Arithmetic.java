@@ -1,6 +1,7 @@
 ////////////////////////////
 ///CSE 002
 ///Cornwell HW02 Arithmetic
+//testing replit commits
 public class Arithmetic {
   
   public static void main(String[] args){
