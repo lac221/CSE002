@@ -1,6 +1,7 @@
 //////////////////////////////////////
 ///CSE 2 WelcomeClass
 ///
+//testing my commits
 public class WelcomeClass {
   
   public static void main(String[] args) {
